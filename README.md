@@ -27,8 +27,6 @@ To run this project, you will need to set up your Python environment and install
 
 ### Prerequisites
 
-Ensure you have Python installed on your system. You can download Python [here](https://www.python.org/downloads/). This project was built using Python 3.8.
-
 ### Installation
 
 Clone the repository and install the required Python libraries:
